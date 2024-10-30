@@ -7,7 +7,7 @@
 
 ---
 
-# GhostTools FR 🇫🇷
+# GhostTools 🇫🇷
 
 ## Description
 **GhostTools** est un outil multitâche de Red Team conçu pour les professionnels de la cybersécurité, offrant une gamme complète de fonctionnalités avancées, y compris :
