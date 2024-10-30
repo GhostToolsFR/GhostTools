@@ -10,7 +10,7 @@
 # GhostTools 🇫🇷 by J2s.
 
 ## Description
-**GhostTools** est un outil multitâche de Red Team conçu pour les professionnels de la cybersécurité, offrant une gamme complète de fonctionnalités avancées, y compris :
+**GhostTools** est un outil multitâche de Pentest/Red Team conçu pour les professionnels de la cybersécurité, offrant une gamme complète de fonctionnalités avancées, y compris :
 
 - 🐭 **Remote Access Trojan (RAT)** pour l'accès à distance
 - 🕵️ **OSINT** (Open Source Intelligence) pour la collecte d'informations
@@ -21,7 +21,7 @@
 - 📶 **Identification d’opérateurs mobiles** (ex. SFR, Orange)
 - Et bien d'autres fonctions de test de sécurité.
 
-Ce programme, avec une interface graphique conviviale et moderne conçue avec Tkinter, est destiné aux tests d'intrusion éthiques. **Il est compatible uniquement avec Windows**.
+Ce programme, avec une interface graphique conviviale et moderne conçue avec Tkinter, est destiné aux tests d'intrusion éthiques. **Notre point fort -> Il est compatible uniquement avec Windows**.
 
 ## 🖼️ Présentation 
 ![GhostTools](https://github.com/user-attachments/assets/16301445-b4bb-4a3a-8a53-8ec79564718d)
