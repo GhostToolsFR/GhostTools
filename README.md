@@ -25,7 +25,7 @@ Ce programme, avec une interface graphique conviviale et moderne conçue avec Tk
 
 ## 🖼️ Présentation
 [Capture d'écran de l'interface] 
-![GhostTools](https://github.com/user-attachments/assets/84e0a5a1-7de4-4509-a54c-1a6142eabd33)
+![GhostTools](https://github.com/user-attachments/assets/16301445-b4bb-4a3a-8a53-8ec79564718d)
 ![OSINT DDOS](https://github.com/user-attachments/assets/7c309527-3e5a-486f-8afd-fe6599a461ca)
 ![GhostWifi](https://github.com/user-attachments/assets/de76da59-8aba-4611-8fb1-40091a24a346)
 ![GhostSpoofer](https://github.com/user-attachments/assets/3d42ecba-a20c-490e-8547-7869d675605b)
