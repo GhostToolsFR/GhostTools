@@ -37,7 +37,7 @@ Ce programme, avec une interface graphique conviviale et moderne conçue avec Tk
 - 💥 **DOS** : exécute des attaques de déni de service dans le cadre de tests de résistance.
 - 🌀 **Spoofing** : masque et falsifie les adresses IP, UUID, HWID et bien d'autres options pour anonymiser les activités.
 - 📍 **IP Tracker** : traque les adresses IP pour une meilleure visibilité des connexions.
-- 📶 **Scan d'opérateurs mobiles** : identifie les opérateurs (SFR, Orange, etc.) via les informations réseau.
+- 📶 **Scan d'opérateurs mobiles** : identifie les opérateurs (SFR, Orange, etc.) via le numero de téléphone.
 - 📡 **Wi-Fi Hacking** : audite les réseaux Wi-Fi pour en tester la sécurité, attaque de de-authing, scan etc., bluetooth.
 - 🖥️ **Interface graphique intuitive** : facilitée par Tkinter, l'interface est optimisée pour une navigation fluide et rapide entre les différentes fonctionnalités.
 
@@ -84,7 +84,7 @@ This program, featuring a user-friendly, modern interface built with Tkinter, is
 - 💥 **DOS**: performs denial of service attacks for stress testing.
 - 🌀 **Spoofing**: masks and forges IP, UUID, HWID, and other identifiers for anonymous activity.
 - 📍 **IP Tracker**: tracks IP addresses for better connection visibility.
-- 📶 **Mobile Operator Scan**: identifies operators (SFR, Orange, etc.) via network info.
+- 📶 **Mobile Operator Scan**: identifies operators (SFR, Orange, etc.) via phone number.
 - 📡 **Wi-Fi Hacking**: audits Wi-Fi networks to test security, de-authing attacks, scans, and even Bluetooth.
 - 🖥️ **Intuitive GUI**: powered by Tkinter, the interface is optimized for smooth and fast navigation between features.
 
