@@ -7,7 +7,7 @@
 
 ---
 
-# GhostTools 🇫🇷 by J2S.
+# GhostTools 🇫🇷 by J2s.
 
 ## Description
 **GhostTools** est un outil multitâche de Red Team conçu pour les professionnels de la cybersécurité, offrant une gamme complète de fonctionnalités avancées, y compris :
@@ -62,7 +62,7 @@ Pour obtenir une licence, veuillez rejoindre notre [serveur Discord](https://dis
 
 ---
 
-# GhostTools EN 🇬🇧
+# GhostTools EN by J2s
 
 ## Description
 **GhostTools** is a multifunctional Red Team tool designed for cybersecurity professionals, offering a comprehensive suite of advanced features, including:
@@ -77,9 +77,6 @@ Pour obtenir une licence, veuillez rejoindre notre [serveur Discord](https://dis
 - And many other security testing functions.
 
 This program, featuring a user-friendly, modern interface built with Tkinter, is intended for ethical penetration testing. **It is compatible with Windows only**.
-
-## 🖼️ Overview
-![Interface Screenshot](screenshot.png)
 
 ## ⚙️ Key Features
 - 🐭 **RAT (Remote Access Trojan)**: enables secure remote access to target systems.
