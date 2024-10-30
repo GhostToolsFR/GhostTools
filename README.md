@@ -22,14 +22,14 @@ Ce programme, avec une interface graphique conviviale et moderne conçue avec Tk
 - **RAT (Remote Access Trojan)** : permet un accès à distance sécurisé aux systèmes cibles.
 - **OSINT** : pour des enquêtes d'intelligence en sources ouvertes.
 - **DOS** : exécute des attaques de déni de service dans le cadre de tests de résistance.
-- **Spoofing** : masque et falsifie les adresses IP pour anonymiser les activités.
+- **Spoofing** : masque et falsifie les adresses IP, UUID, HWID et bien d'autres options pour anonymiser les activités.
 - **IP Tracker** : traque les adresses IP pour une meilleure visibilité des connexions.
 - **Scan d'opérateurs mobiles** : identifie les opérateurs (SFR, Orange, etc.) via les informations réseau.
-- **Wi-Fi Hacking** : audite les réseaux Wi-Fi pour en tester la sécurité.
+- **Wi-Fi Hacking** : audite les réseaux Wi-Fi pour en tester la sécurité, attaque de de-authing, scan etc, bluetooth.
 - **Interface graphique intuitive** : facilitée par Tkinter, l'interface est optimisée pour une navigation fluide et rapide entre les différentes fonctionnalités.
 
 ## Compatibilité
-- **Système d'exploitation** : Windows uniquement
+- **Système d'exploitation** : Windows 10/11 uniquement. (32 & 64 bits)
 - **Langage** : Python (toutes les dépendances sont incluses dans l'exécutable, aucune installation supplémentaire nécessaire)
 
 ## Installation
