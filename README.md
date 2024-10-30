@@ -15,7 +15,7 @@
 - 🐭 **Remote Access Trojan (RAT)** pour l'accès à distance
 - 🕵️ **OSINT** (Open Source Intelligence) pour la collecte d'informations
 - 💥 **Attaques DOS** pour les tests de robustesse des systèmes
-- 🌀 **Spoofing d'adresses IP**
+- 🌀 **Spoofing d'adresses IP** 
 - 📍 **Traqueur d'adresses IP**
 - 📡 **Scan Wi-Fi** pour l’audit des réseaux
 - 📶 **Identification d’opérateurs mobiles** (ex. SFR, Orange)
