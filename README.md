@@ -7,7 +7,7 @@
 
 ---
 
-# GhostTools 🇫🇷
+# GhostTools 🇫🇷 by J2S.
 
 ## Description
 **GhostTools** est un outil multitâche de Red Team conçu pour les professionnels de la cybersécurité, offrant une gamme complète de fonctionnalités avancées, y compris :
@@ -26,7 +26,7 @@ Ce programme, avec une interface graphique conviviale et moderne conçue avec Tk
 ## 🖼️ Présentation
 [Capture d'écran de l'interface] 
 ![GhostTools](https://github.com/user-attachments/assets/16301445-b4bb-4a3a-8a53-8ec79564718d)
-![OSINT DDOS](https://github.com/user-attachments/assets/7c309527-3e5a-486f-8afd-fe6599a461ca)
+![OSINT DDOS](https://github.com/user-attachments/assets/13671648-0bc6-49ba-99ee-cb91fff0db2f)
 ![GhostWifi](https://github.com/user-attachments/assets/de76da59-8aba-4611-8fb1-40091a24a346)
 ![GhostSpoofer](https://github.com/user-attachments/assets/3d42ecba-a20c-490e-8547-7869d675605b)
 
