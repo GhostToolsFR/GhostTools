@@ -23,8 +23,7 @@
 
 Ce programme, avec une interface graphique conviviale et moderne conçue avec Tkinter, est destiné aux tests d'intrusion éthiques. **Il est compatible uniquement avec Windows**.
 
-## 🖼️ Présentation
-[Capture d'écran de l'interface] 
+## 🖼️ Présentation 
 ![GhostTools](https://github.com/user-attachments/assets/16301445-b4bb-4a3a-8a53-8ec79564718d)
 ![OSINT DDOS](https://github.com/user-attachments/assets/13671648-0bc6-49ba-99ee-cb91fff0db2f)
 ![GhostWifi](https://github.com/user-attachments/assets/de76da59-8aba-4611-8fb1-40091a24a346)
