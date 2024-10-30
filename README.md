@@ -43,6 +43,7 @@ Ce programme, avec une interface graphique conviviale et moderne conçue avec Tk
 ## ⚙️ Installation
 1. Téléchargez le fichier `GhostTools.exe` fourni lors de l'achat de la licence.
 2. Double-cliquez sur le fichier pour lancer l'application. Aucun téléchargement supplémentaire n'est requis.
+3. Tout est conçu pour une utilisation simple, un menu d'aide et de la documentation sont disponible sur le logciel.
 
 ## ⚠️ Utilisation éthique
 Cet outil est strictement réservé aux professionnels de la cybersécurité pour des **tests de sécurité éthiques**. Toute utilisation non autorisée ou illégale de cet outil est strictement interdite et contraire aux conditions de licence.
@@ -92,6 +93,8 @@ This program, featuring a user-friendly, modern interface built with Tkinter, is
 ## ⚙️ Installation
 1. Download the `GhostTools.exe` file provided upon license purchase.
 2. Double-click the file to launch the application. No additional downloads are required.
+3. Everything is designed for simple use, a help menu and documentation are available on the software.
+
 
 ## ⚠️ Ethical Use
 This tool is strictly reserved for cybersecurity professionals for **ethical security testing**. Any unauthorized or illegal use of this tool is strictly prohibited and against the licensing terms.
