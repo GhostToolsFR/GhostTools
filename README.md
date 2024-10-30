@@ -62,7 +62,7 @@ Pour obtenir une licence, veuillez rejoindre notre [serveur Discord](https://dis
 
 ---
 
-# GhostTools EN by J2s
+# 👻 GhostTools EN by J2s
 
 ## Description
 **GhostTools** is a multifunctional Red Team tool designed for cybersecurity professionals, offering a comprehensive suite of advanced features, including:
