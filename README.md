@@ -23,13 +23,6 @@
 
 Ce programme, avec une interface graphique conviviale et moderne conçue avec Tkinter, est destiné aux tests d'intrusion éthiques. **Notre point fort -> Il est compatible uniquement avec Windows**.
 
-## 🖼️ Présentation 
-![GhostTools](https://github.com/user-attachments/assets/16301445-b4bb-4a3a-8a53-8ec79564718d)
-![OSINT DDOS](https://github.com/user-attachments/assets/13671648-0bc6-49ba-99ee-cb91fff0db2f)
-![GhostWifi](https://github.com/user-attachments/assets/de76da59-8aba-4611-8fb1-40091a24a346)
-![GhostSpoofer](https://github.com/user-attachments/assets/3d42ecba-a20c-490e-8547-7869d675605b)
-
-
 ## ⚙️ Caractéristiques principales
 - 🐭 **RAT (Remote Access Trojan)** : permet un accès à distance sécurisé aux systèmes cibles.
 - 🕵️ **OSINT** : pour des enquêtes d'intelligence en sources ouvertes.
